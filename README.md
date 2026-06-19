@@ -4,10 +4,8 @@ A responsive shopping stores landing page developed using HTML, CSS, and Bootstr
 
 ## Features
 - Clean and modern user interface
-- Responsive design using Bootstrap
 - Displays popular shopping platforms
 - Store logos with descriptions
-- Mobile-friendly layout
 
 ## Technologies Used
 - HTML5
@@ -24,4 +22,4 @@ A responsive shopping stores landing page developed using HTML, CSS, and Bootstr
 - Myntra
 
 ## Author
-Your Name
+Meghana Joseph
