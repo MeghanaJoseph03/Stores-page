@@ -1,4 +1,3 @@
-# Stores-page
 # Shopping Stores Landing Page
 
 A responsive shopping stores landing page developed using HTML, CSS, and Bootstrap.
