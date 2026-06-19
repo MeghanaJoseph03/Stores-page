@@ -1,0 +1,48 @@
+
+.home-page {
+    background-color: #894bca;
+    height: 40vh;
+    background-size: cover;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: "Bree Serif";
+    padding: 20px;
+}
+
+.home-card {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+}
+
+
+.sub-heading {
+    color: #f780c3;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+.card-container {
+    margin: 20px;
+}
+
+.card-container-heading {
+    font-size: 19px;
+    padding-left: 20px;
+    font-weight: 600;
+    color: #323f4b;
+}
+
+.card-container-para {
+    font-size: 14px;
+    padding-left: 20px;
+    color: #7b8794;
+}
+.home-image{
+    border-radius:500px;
+    margin:20px;
+}
